@@ -99,3 +99,4 @@ if (Test-Path $ChangelogPath) {
 
 Write-Host "`n🎯 Готово к работе! Можете безопасно вносить изменения." -ForegroundColor Green
 
+

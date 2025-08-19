@@ -62,3 +62,4 @@ Write-Host "Восстановление завершено успешно!" -Fo
 Write-Host "Текущее состояние сохранено в: $CurrentBackup" -ForegroundColor Cyan
 Write-Host "Для запуска выполните: npm start" -ForegroundColor Yellow
 
+

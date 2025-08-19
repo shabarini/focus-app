@@ -116,3 +116,4 @@ if ($Recommendations.Count -gt 0) {
 
 Write-Host "`n✅ Проверка завершена" -ForegroundColor Green
 
+

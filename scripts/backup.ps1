@@ -87,3 +87,4 @@ if ($BackupType -eq "auto") {
     Write-Host "Бэкап записан в VERSION.md" -ForegroundColor Cyan
 }
 
+

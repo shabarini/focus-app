@@ -81,3 +81,4 @@ if [ ! -z "$DOMAIN" ]; then
     echo "🌐 Или: http://$DOMAIN"
 fi
 
+

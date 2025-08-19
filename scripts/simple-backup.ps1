@@ -20,3 +20,4 @@ Copy-Item -Path "." -Destination $BackupPath -Recurse -Exclude @("node_modules",
 
 Write-Host "Бэкап создан: $BackupPath" -ForegroundColor Green
 
+

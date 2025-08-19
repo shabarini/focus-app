@@ -152,3 +152,4 @@ Write-Host "   Обновленных документов: 2 (CHANGELOG.md, TOM
 Write-Host "`n🎉 Рабочий день завершен! Хорошего отдыха! 🌙" -ForegroundColor Green
 Write-Host "   Завтра начните с: .\scripts\daily-check.ps1" -ForegroundColor Yellow
 
+
