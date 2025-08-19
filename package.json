@@ -57,5 +57,5 @@
                             "@types/react-dom":  "^19.1.7",
                             "typescript":  "^5.9.2"
                         },
-    "homepage":  "https://shabarini.github.io/focus-app"
+    "homepage":  "https://shabarini.github.io/focus-app/"
 }
